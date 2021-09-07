@@ -7,7 +7,7 @@
 <br>
 
 ## 🛠 &nbsp;주요 기술 스택
-**_Back-end_**
+**_Backend_**
   - Spring Boot
   - JPA(Hibernate)
   - WebSocket
@@ -15,12 +15,12 @@
   - Kurento
   - coturn
 
-**_Front-end_**
+**_Frontend_**
   - vue.js
   - Axios
   - element-ui
 
-**_etc._**
+**_DevOps_**
   - AWS
   - Docker
   - Jenkins
