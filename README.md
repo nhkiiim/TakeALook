@@ -124,7 +124,8 @@
 > - **채팅** : 1:1 채팅을 통해 거래 완료
 > 
 ><img width="400" alt="스크린샷" src="https://user-images.githubusercontent.com/59560592/132133959-b310819b-5ae5-4b63-b22f-24383175e823.gif">
-
+>
+><img width="299" alt="스크린샷 2021-09-06 오전 1 24 46" src="https://user-images.githubusercontent.com/59560592/132832723-479a68e6-fc35-4451-b1da-2224540057cc.png"><img width="249" alt="스크린샷 2021-09-06 오전 1 24 55" src="https://user-images.githubusercontent.com/59560592/132832705-c95bf9e3-4ccd-4dd4-9d4e-238259172970.png">
 <br>
 
 ### **6. 구매 목록**
