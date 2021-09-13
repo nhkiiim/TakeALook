@@ -1,12 +1,10 @@
 1) JVM, 기타 버전(WAS사용안함)
-
    - JVM ver : openjdk 14.0.2 2020-07-14
    - JVM Runtime env : build 14.0.2+12-Ubuntu-120.04
    - spring : default (Apache Tomcat/9.0.45)
    - vue : default
 
 2) 빌드시 사용변수
-   
    - Backend
      sudo chmod 777 ./gradlew
      gradle wrapper (gradle 6.7)
