@@ -9,7 +9,7 @@
 ## 🛠 &nbsp;주요 기술 스택
 **_Backend_**
   - Spring Boot
-  - JPA(Hibernate)
+  - JPA
   - WebSocket
   - STOMP
   - Kurento
